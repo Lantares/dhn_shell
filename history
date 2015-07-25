@@ -1,0 +1,347 @@
+ls
+cd ..
+ls
+ls data
+cd
+ls
+ls -la
+la
+exit
+ls
+cd ..
+ls
+cd 'dhn_shell_ass1'
+ls
+exit
+ls
+ls *.cpp
+ls *.cpp *.h
+s *.cp
+ls
+ls -la *.cpp
+exit
+ls
+ls *.cpp
+ls t*
+exit
+ls
+ls *.cpp *.h
+ls t*
+ls *m
+ls m*
+quit
+exit
+ls
+ls *.cpp
+ls *.cpp ./test/*.cpp
+ls -ls *.cpp *.h
+state
+status
+exit
+\man
+man
+man ls
+man hello
+exit
+whoami
+ls
+exit
+ls | grep m | grep c
+ls
+ls | grep m
+ls | grep c
+ls | grep c
+l
+ls
+ls | grep m | grep c
+exit
+ls | grep m | grep c
+ls | grep m
+exit
+ls
+ls | grep m
+ls | grep s
+ls | grep s | grep c
+ls | grep s | grep c | grep h
+ls | grep s | grep c | grep h | grep ~
+ls | grep s 
+ls | grep s | more
+ls | more
+ls | more
+nnqq
+xit
+exit
+ls
+exit
+ls
+ls |grep m
+ls |grep m | grep c
+ls |grep m | grep c | grep p
+ls |grep m | grep c | grep p | grep ~
+exit
+ls | grep m
+ls | grep m | grep c
+ls | grep m | grep c | grep h
+exit
+ls | grep m
+ls
+ls | more
+ls
+exit
+ls
+ls | grep m
+ls | grep m
+exit
+ls
+ls | grep m
+exit
+ls
+ls | grep
+ls | grep
+ls | grep m
+exit
+ls
+ls
+ls | grep m
+ls | grep m | grep c
+ls | grep m | grep c | grep w
+ls | grep m | grep c | grep w | grep p
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd ~
+ls
+ls /
+ls / -r
+ls -r /
+ls -f /
+ls
+ls
+ls | more
+exit
+exit
+ls
+ls | grep m
+ls | grep m < s
+ls | grep m < s d
+ls | grep m < s < d
+ls | grep m < s| grep s
+ls | grep m < s| grep h
+ls | grep m < s| grep h < s
+ls | grep m < s| grep h < e
+ls /
+ls -r /
+cd ..
+ls
+tree
+tree | more
+tree | less
+cd ~
+exit
+ls
+ls > a
+ls >>a
+ls >>a > a
+ls >>a grep | c
+ls >>a | grep c
+ls >>a | grep c > b
+ls >>a | grep c > b < a
+ls < a > b
+exit
+ls
+ls < a > b
+exit
+ls
+ls > a < b
+exit
+ls < a > b
+ls < a > b < a
+ls < a > b < c
+ls < a > b < c >> dd
+ls < a > b < c >> dd & 
+exit
+ls < a > b < c >> dd & 
+ls < a > b < c >> dd > h
+ls | grep w < a > c
+ls | grep w < a > c | grep c
+ls | grep w < a > c | grep ~
+exit
+ls < a a
+ls < a b
+exit
+ls
+ls
+ls | grep s
+ls | grep sc
+ls | grep sca
+exit
+ls
+ls s*
+ls s* | grep s
+ls s* | grep s | grep cpp
+exit
+history
+exit
+ls
+ls s*
+ls s* |grep h
+ls s* |grep h | grep ~
+exit
+ls
+ls > lstest
+ls
+exit
+ls
+ls > lstest
+ls
+cat lstest
+rm lstest
+ls
+exit
+ls
+grep a < history
+grep a < history > testhis
+ls
+cat testhis
+rm testhis
+ls
+exit
+echo a
+echo a > testout
+ls
+cat testout
+echo bc >> testout
+cat testout
+exit
+ls
+echo bc >> testout
+exit
+echo bc >> testout
+cat testout
+exit
+ls
+echo 11111111111111111111111 > fuck
+ls
+cat fuck
+grep a >> fuck < history
+ls
+cat fuck
+rm fuck
+ls
+exit
+grep a < history
+grep a | grep t < history
+grep a | grep t < history grep c
+grep a | grep t < history | grep c
+grep a | grep t < history | grep c | grep y
+exit
+grep a | grep t < history | grep c 
+grep a | grep t < history | grep c > niconiconi
+ls
+cat niconiconi
+grep a | grep t < history | grep c >> niconiconi
+cat niconiconi
+grep a | grep t < history | grep c 
+cat history | grep ca
+cat history | grep ca >> niconiconi
+ls
+cat niconiconi
+cat history | grep ca > niconiconi
+cat niconiconi
+rm niconiconi
+exit
+ls
+grep s < history
+cat history
+cat history | grep s
+cat history | grep s | grep l
+cat history | grep ls | grep "grep h"
+cat history | grep ls | grep 'grep h'
+cat history | grep ls | grep 'grep h' > nico
+ls
+cat nico
+cat history | grep ls | grep 'grep h' >> nico
+ls
+cat nico
+rm nico
+exit
+cat history | grep ls | grep 'grep h' >> nico
+cat history | grep ls | grep 'grep h' >> nico
+cat nico
+echo hello >> nico
+cat nico
+cat history | grep ls | grep 'grep h' >> nico
+cat nico
+exit
+ls
+rm nico
+echo hello >> nico
+ls
+cat nico
+cat history | grep ls | grep 'grep h' >> nico
+cat history | grep ls | grep 'grep h' >> nico
+cat nico
+cat history | grep ls | grep 'grep h' >> nico
+cat history | grep ls | grep 'grep h' >> nico
+cat history | grep ls | grep 'grep h' >> nico
+cat history | grep ls | grep 'grep h' >> nico
+cat history | grep ls | grep 'grep h' >> nico
+cat history | grep ls | grep 'grep h' >> nico
+cat history | grep ls | grep 'grep h' >> nico
+cat history | grep ls | grep 'grep h' >> nico
+cat history | grep ls | grep 'grep h' >> nico
+rm nico
+ls
+echo hello > nico
+cat nico
+echo hello >> nico
+echo hello >> nico
+echo hello >> nico
+echo hello >> nico
+cat nico
+echo helloworld >> nico
+cat nico
+grep helloworld < nico >> nico2
+grep helloworld < nico >> nico2
+grep helloworld < nico >> nico2
+grep helloworld < nico >> nico2
+grep helloworld < nico >> nico2
+cat nico2
+grep helloworld | grep world < nico >> nico2
+cat nico2
+grep helloworld | grep world < nico >> nico2
+grep helloworld | grep world < nico >> nico2
+grep helloworld | grep world < nico >> nico2
+grep helloworld | grep world < nico >> nico2
+grep helloworld | grep world < nico >> nico2
+grep helloworld | grep world < nico >> nico2
+grep helloworld | grep world < nico >> nico2
+cat nico2
+rm nico2
+rm nico
+ls
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+ls
+cd ..
+ls
+cd
+exit
